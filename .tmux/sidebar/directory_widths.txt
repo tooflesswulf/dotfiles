@@ -1,0 +1,3 @@
+/Users/albertxu	40
+/Users/albertxu/.config/mpv	40
+/Users/albertxu/.tmux/plugins/tpm	40
