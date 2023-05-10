@@ -1,4 +1,4 @@
-# Links
+# Stuff
 
 ## Vim
 vim config (`.vimrc`, `.vim/`) can be copied directly with no changes.
@@ -19,3 +19,13 @@ Font:
 https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.0/LiberationMono.zip
 
 Install and set Terminal font to "LiterationMonoNerdFontMonoRegular"
+
+## tmux
+Copy `.tmux.conf` and `.tmux/` to home.
+
+Install tpm
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+C-b I and should be good.
