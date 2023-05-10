@@ -28,4 +28,4 @@ Install tpm
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-C-b I and should be good.
+`C-b I` and should be good.
