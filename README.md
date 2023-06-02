@@ -4,6 +4,11 @@
 vim config (`.vimrc`, `.vim/`) can be copied directly with no changes.
 
 ## zsh (oh-my-zsh)
+Step 1:
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ### Plugins
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
